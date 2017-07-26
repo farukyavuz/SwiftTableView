@@ -51,5 +51,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
 //        return 100
 //    }
     
+    //Mastera Eklendi.
 }
 
